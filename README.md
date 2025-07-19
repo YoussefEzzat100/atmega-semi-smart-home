@@ -1,0 +1,1 @@
+# atmega-semi-smart-home
